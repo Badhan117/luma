@@ -19,3 +19,7 @@ struct Task {
     string content;
     bool completed;
 }
+```
+## Contract details: 0x763233563fea271eaf2af720f44d55e6dc7dcfc7
+![Screenshot (1198)](https://github.com/user-attachments/assets/cf06723d-b4ab-4eb4-85f0-a67517488b89)
+
